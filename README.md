@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008036&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=50&pause=1000&color=FEFEFE&center=true&vCenter=true&width=1000&height=90&lines=%F0%9F%91%8B+Hello%2C+I'm+Luiz+Vicente;I'm+a+Front-End+Developer+%F0%9F%92%BB;%F0%9F%A7%90+I+am+a+Systems+Analyst+at+PUC-PR)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=50&pause=1000&color=FEFEFE&center=true&vCenter=true&width=1000&height=90&lines=%F0%9F%91%8B+Hello%2C+I'm+Luiz+Vicente;I'm+a+Front-End+Developer+%F0%9F%92%BB;%F0%9F%A7%90+I'm+a+Systems+Analyst+at+PUC-PR)](https://git.io/typing-svg)
 
 <!-- <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Luiz-Vicente&show_icons=true&count_private=true&hide_border=true&title_color=008036&icon_color=008036&text_color=c9d1d9&bg_color=0d1117" alt="Luiz Vicente GitHub stats" /> 
