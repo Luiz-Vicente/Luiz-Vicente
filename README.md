@@ -24,6 +24,7 @@
 ![StoryBook](https://img.shields.io/badge/-StoryBook-0D1117?style=for-the-badge&logo=storybook&labelColor=0D1117)&nbsp;
 ![WebPack](https://img.shields.io/badge/-WebPack-0D1117?style=for-the-badge&logo=webpack&labelColor=0D1117)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117)&nbsp;
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
