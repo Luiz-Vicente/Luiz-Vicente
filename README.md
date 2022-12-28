@@ -7,7 +7,7 @@
   <img width="49%" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Vicente&layout=compact&hide_border=true&title_color=008036&text_color=FEFEFE&bg_color=0d1117" />
 </div> -->
 
-<!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=Luiz-Vicente&hide_border=true&area=true&color=FEFEFE&bg_color=0D1117&line=008036&area_color=14ae5c) -->
+![Contribution](https://activity-graph.herokuapp.com/graph?username=Luiz-Vicente&hide_border=true&area=true&color=FEFEFE&bg_color=0D1117&line=008036&area_color=14ae5c)
 
 <div align="center">  
 <a href="https://www.instagram.com/eu_sou_o_luiz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-008036?style=for-the-badge&logo=instagram&logoColor=white"</a>
