@@ -47,10 +47,19 @@
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
 
- <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Luiz-Vicente}/count.svg" /></p> 
-<br></div>
+<div align="center">
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Luiz-Vicente&theme=gotham&hide_border=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Vicente&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
+
+</div>
+  
+<div align="center">
+   
+---
+[![](https://visitcount.itsvg.in/api?id=Luiz-Vicente&icon=3&color=3)](https://visitcount.itsvg.in)<br>
+
+</div>
   
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008036&height=120&section=footer"/>
