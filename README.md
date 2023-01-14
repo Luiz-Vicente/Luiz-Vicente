@@ -25,6 +25,8 @@
 ![WebPack](https://img.shields.io/badge/-WebPack-0D1117?style=for-the-badge&logo=webpack&labelColor=0D1117)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117)&nbsp;
+![Pinia](https://img.shields.io/badge/-Pinia-0D1117?style=for-the-badge&logo=pinia&labelColor=0D1117)&nbsp;
+![Vuex](https://img.shields.io/badge/-Vuex-0D1117?style=for-the-badge&logo=vuex&labelColor=0D1117)&nbsp;
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
