@@ -35,9 +35,10 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![ESLint](https://img.shields.io/badge/-ESLint-0D1117?style=for-the-badge&logo=eslint&labelColor=0D1117)&nbsp;
 ![Vercel](https://img.shields.io/badge/-Vercel-0D1117?style=for-the-badge&logo=vercel&labelColor=0D1117)&nbsp;
-![I18n](https://img.shields.io/badge/-I18n-0D1117?style=for-the-badge&logo=i18n&labelColor=0D1117)&nbsp;
+![I18n](https://img.shields.io/badge/-I18n-0D1117?style=for-the-badge&logo=i18next&labelColor=0D1117)&nbsp;
 ![Scrum](https://img.shields.io/badge/-Scrum-0D1117?style=for-the-badge&logo=scrum&labelColor=0D1117)&nbsp;
 ![Vite](https://img.shields.io/badge/-Vite-0D1117?style=for-the-badge&logo=vite&labelColor=0D1117)&nbsp;
+![Vuetify](https://img.shields.io/badge/-Vuetify-0D1117?style=for-the-badge&logo=vuetify&labelColor=0D1117)&nbsp;
 
 ## Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
@@ -51,15 +52,9 @@
 ![Jira](https://img.shields.io/badge/jira-0D1117?style=for-the-badge&logo=jira&labelColor=0D1117)&nbsp;
 ![Trello](https://img.shields.io/badge/trello-0D1117?style=for-the-badge&logo=trello&labelColor=0D1117)&nbsp;
 ![Miro](https://img.shields.io/badge/Miro-0D1117?style=for-the-badge&logo=miro&labelColor=0D1117)&nbsp;
-
-<!-- ### Other Knowledge:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp; -->
   
 ## Studying in this moment:
-![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
   
 <br/>
