@@ -42,6 +42,8 @@
 ![Scrum](https://img.shields.io/badge/-Scrum-0D1117?style=for-the-badge&logo=scrum&labelColor=0D1117)&nbsp;
 ![Vite](https://img.shields.io/badge/-Vite-0D1117?style=for-the-badge&logo=vite&labelColor=0D1117)&nbsp;
 ![Vuetify](https://img.shields.io/badge/-Vuetify-0D1117?style=for-the-badge&logo=vuetify&labelColor=0D1117)&nbsp;
+![EsLint](https://img.shields.io/badge/-EsLint-0D1117?style=for-the-badge&logo=eslint&labelColor=0D1117)&nbsp;
+![Prettier](https://img.shields.io/badge/-Prettier-0D1117?style=for-the-badge&logo=prettier&labelColor=0D1117)&nbsp;
 
 ## Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
