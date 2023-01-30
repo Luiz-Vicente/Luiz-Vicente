@@ -24,6 +24,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Terraform](https://img.shields.io/badge/-Terraform-0D1117?style=for-the-badge&logo=terraform&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Jenkins](https://img.shields.io/badge/-Jenkins-0D1117?style=for-the-badge&logo=jenkins&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Grafana](https://img.shields.io/badge/-Grafana-0D1117?style=for-the-badge&logo=grafana&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-0D1117?style=for-the-badge&logo=sass&labelColor=0D1117)&nbsp;
@@ -36,7 +37,6 @@
 ![Vuex](https://img.shields.io/badge/-Vuex-0D1117?style=for-the-badge&logo=vuex&labelColor=0D1117)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![ESLint](https://img.shields.io/badge/-ESLint-0D1117?style=for-the-badge&logo=eslint&labelColor=0D1117)&nbsp;
 ![Vercel](https://img.shields.io/badge/-Vercel-0D1117?style=for-the-badge&logo=vercel&labelColor=0D1117)&nbsp;
 ![I18n](https://img.shields.io/badge/-I18n-0D1117?style=for-the-badge&logo=i18next&labelColor=0D1117)&nbsp;
 ![Scrum](https://img.shields.io/badge/-Scrum-0D1117?style=for-the-badge&logo=scrum&labelColor=0D1117)&nbsp;
