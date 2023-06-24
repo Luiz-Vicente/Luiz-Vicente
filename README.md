@@ -61,7 +61,7 @@
 ![Trello](https://img.shields.io/badge/trello-0D1117?style=for-the-badge&logo=trello&labelColor=0D1117)&nbsp;
 ![Miro](https://img.shields.io/badge/Miro-0D1117?style=for-the-badge&logo=miro&labelColor=0D1117)&nbsp;
   
-## Studying in this moment:
+## Studying:
 ![Node.js](https://img.shields.io/badge/-Node-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
   
 <br/>
