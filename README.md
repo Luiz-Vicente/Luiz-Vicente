@@ -36,23 +36,18 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117)&nbsp;
 ![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-0D1117?style=for-the-badge&logo=digital-ocean&labelColor=0D1117)&nbsp;
-![Pinia](https://img.shields.io/badge/-Pinia-0D1117?style=for-the-badge&logo=pinia&labelColor=0D1117)&nbsp;
 ![Vuex](https://img.shields.io/badge/-Vuex-0D1117?style=for-the-badge&logo=vuex&labelColor=0D1117)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Vercel](https://img.shields.io/badge/-Vercel-0D1117?style=for-the-badge&logo=vercel&labelColor=0D1117)&nbsp;
 ![I18n](https://img.shields.io/badge/-I18n-0D1117?style=for-the-badge&logo=i18next&labelColor=0D1117)&nbsp;
-![Scrum](https://img.shields.io/badge/-Scrum-0D1117?style=for-the-badge&logo=scrum&labelColor=0D1117)&nbsp;
 ![Vite](https://img.shields.io/badge/-Vite-0D1117?style=for-the-badge&logo=vite&labelColor=0D1117)&nbsp;
 ![Vuetify](https://img.shields.io/badge/-Vuetify-0D1117?style=for-the-badge&logo=vuetify&labelColor=0D1117)&nbsp;
 ![EsLint](https://img.shields.io/badge/-EsLint-0D1117?style=for-the-badge&logo=eslint&labelColor=0D1117)&nbsp;
-![Prettier](https://img.shields.io/badge/-Prettier-0D1117?style=for-the-badge&logo=prettier&labelColor=0D1117)&nbsp;
 
 ## Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![GitLab](https://img.shields.io/badge/-GitLab-0D1117?style=for-the-badge&logo=gitlab&labelColor=0D1117)&nbsp;
 ![DockerHub](https://img.shields.io/badge/-DockerHub-0D1117?style=for-the-badge&logo=dockerhub&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
