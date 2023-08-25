@@ -11,46 +11,46 @@
 <br/>
   
 ## Main skills:
-![Vue](https://img.shields.io/badge/-Vue-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Chackra Ui](https://img.shields.io/badge/-Chackra_UI-0D1117?style=for-the-badge&logo=chakraui&labelColor=0D1117&textColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Terraform](https://img.shields.io/badge/-Terraform-0D1117?style=for-the-badge&logo=terraform&labelColor=0D1117&textColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-0D1117?style=for-the-badge&logo=sass&labelColor=0D1117)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-0D1117?style=for-the-badge&logo=jest&labelColor=0D1117)&nbsp;
-![StoryBook](https://img.shields.io/badge/-StoryBook-0D1117?style=for-the-badge&logo=storybook&labelColor=0D1117)&nbsp;
-![WebPack](https://img.shields.io/badge/-WebPack-0D1117?style=for-the-badge&logo=webpack&labelColor=0D1117)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117)&nbsp;
-![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-0D1117?style=for-the-badge&logo=digital-ocean&labelColor=0D1117)&nbsp;
-![Vuex](https://img.shields.io/badge/-Vuex-0D1117?style=for-the-badge&logo=vuex&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Vercel](https://img.shields.io/badge/-Vercel-0D1117?style=for-the-badge&logo=vercel&labelColor=0D1117)&nbsp;
-![I18n](https://img.shields.io/badge/-I18n-0D1117?style=for-the-badge&logo=i18next&labelColor=0D1117)&nbsp;
-![Vite](https://img.shields.io/badge/-Vite-0D1117?style=for-the-badge&logo=vite&labelColor=0D1117)&nbsp;
-![Vuetify](https://img.shields.io/badge/-Vuetify-0D1117?style=for-the-badge&logo=vuetify&labelColor=0D1117)&nbsp;
-![EsLint](https://img.shields.io/badge/-EsLint-0D1117?style=for-the-badge&logo=eslint&labelColor=0D1117)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-0D1117?style=for-the-badge&logo=vue.js)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&textColor=0D1117)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=for-the-badge&logo=laravel&textColor=0D1117)&nbsp;
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react)&nbsp;
+![Chackra Ui](https://img.shields.io/badge/-Chackra_UI-0D1117?style=for-the-badge&logo=chakraui&textColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&textColor=0D1117)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&textColor=0D1117)&nbsp;
+![Terraform](https://img.shields.io/badge/-Terraform-0D1117?style=for-the-badge&logo=terraform&textColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&textColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-0D1117?style=for-the-badge&logo=sass)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-0D1117?style=for-the-badge&logo=jest)&nbsp;
+![StoryBook](https://img.shields.io/badge/-StoryBook-0D1117?style=for-the-badge&logo=storybook)&nbsp;
+![WebPack](https://img.shields.io/badge/-WebPack-0D1117?style=for-the-badge&logo=webpack)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=firebase)&nbsp;
+![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-0D1117?style=for-the-badge&logo=digital-ocean)&nbsp;
+![Vuex](https://img.shields.io/badge/-Vuex-0D1117?style=for-the-badge&logo=vuex)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql)&nbsp;
+![Vercel](https://img.shields.io/badge/-Vercel-0D1117?style=for-the-badge&logo=vercel)&nbsp;
+![I18n](https://img.shields.io/badge/-I18n-0D1117?style=for-the-badge&logo=i18next)&nbsp;
+![Vite](https://img.shields.io/badge/-Vite-0D1117?style=for-the-badge&logo=vite)&nbsp;
+![Vuetify](https://img.shields.io/badge/-Vuetify-0D1117?style=for-the-badge&logo=vuetify)&nbsp;
+![EsLint](https://img.shields.io/badge/-EsLint-0D1117?style=for-the-badge&logo=eslint)&nbsp;
 
 ## Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![DockerHub](https://img.shields.io/badge/-DockerHub-0D1117?style=for-the-badge&logo=dockerhub&labelColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Jira](https://img.shields.io/badge/jira-0D1117?style=for-the-badge&logo=jira&labelColor=0D1117)&nbsp;
-![Trello](https://img.shields.io/badge/trello-0D1117?style=for-the-badge&logo=trello&labelColor=0D1117)&nbsp;
-![Miro](https://img.shields.io/badge/Miro-0D1117?style=for-the-badge&logo=miro&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github)&nbsp;
+![DockerHub](https://img.shields.io/badge/-DockerHub-0D1117?style=for-the-badge&logo=dockerhub)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office)&nbsp;
+![Figma](https://img.shields.io/badge/figma-0D1117?style=for-the-badge&logo=figma)&nbsp;
+![Jira](https://img.shields.io/badge/jira-0D1117?style=for-the-badge&logo=jira)&nbsp;
+![Trello](https://img.shields.io/badge/trello-0D1117?style=for-the-badge&logo=trello)&nbsp;
+![Miro](https://img.shields.io/badge/Miro-0D1117?style=for-the-badge&logo=miro)&nbsp;
   
 ## Studying:
-![Node.js](https://img.shields.io/badge/-Node-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&textColor=0D1117)&nbsp;
 
 <br/>
 
