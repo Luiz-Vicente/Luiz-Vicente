@@ -2,13 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=50&pause=1000&color=FEFEFE&center=true&vCenter=true&width=1000&height=90&lines=%F0%9F%91%8B+Hello%2C+I'm+Luiz+Vicente;I'm+a+Front-End+Developer+%F0%9F%92%BB;%F0%9F%A7%90+I'm+a+Systems+Analyst+at+PUC-PR)](https://git.io/typing-svg)
 
-<!-- <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Luiz-Vicente&show_icons=true&count_private=true&hide_border=true&title_color=008036&icon_color=008036&text_color=c9d1d9&bg_color=0d1117" alt="Luiz Vicente GitHub stats" /> 
-  <img width="49%" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Vicente&layout=compact&hide_border=true&title_color=008036&text_color=FEFEFE&bg_color=0d1117" />
-</div> -->
-
-<!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=Luiz-Vicente&hide_border=true&area=true&color=FEFEFE&bg_color=0D1117&line=008036&area_color=14ae5c) -->
-
 <div align="center">  
 <a href="https://www.instagram.com/eu_sou_o_luiz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-EC2E2C?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/dev-vicente/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0961B8?style=for-the-badge&logo=linkedin&logoColor=white"</a>
@@ -58,14 +51,12 @@
   
 ## Studying:
 ![Node.js](https://img.shields.io/badge/-Node-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-  
+
 <br/>
 
 <div align="center">
-  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Luiz-Vicente&theme=gotham&hide_border=false)<br/>
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Vicente&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
-
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=luiz-vicente&theme=gotham&show_icons=true&locale=pt-br" alt="luiz-vicente" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Luiz-Vicente&theme=gotham&hide_border=false" alt="luiz-vicente">
 </div>
 
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008036&height=120&section=footer"/> -->
