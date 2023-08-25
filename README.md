@@ -55,8 +55,10 @@
 <br/>
 
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=luiz-vicente&theme=gotham&show_icons=true&locale=pt-br" alt="luiz-vicente" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Luiz-Vicente&theme=gotham&hide_border=false" alt="luiz-vicente">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luiz-vicente&theme=gotham&layout=compact&langs_count=8&card_width=320?" />
+  <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Luiz-Vicente&theme=gotham&hide_border=false" alt="luiz-vicente">
 </div>
+
+<br/>
 
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008036&height=120&section=footer"/> -->
