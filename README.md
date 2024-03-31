@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=soft&height=200&color=0A192F&text=Luiz%20Vicente%20-%20Full%20stack%20Pleno&section=header&reversal=false&textBg=false&fontSize=40&animation=twinkling&fontColor=48BB78"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=soft&height=200&color=0A192F&text=Luiz%20Vicente%20-%20Mid%20Software%20Enginner&section=header&reversal=false&textBg=false&fontSize=40&animation=twinkling&fontColor=48BB78"/>
 
 <!-- <div align="center">  
 <a href="https://www.instagram.com/eu_sou_o_luiz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-EC2E2C?style=for-the-badge&logo=instagram&logoColor=white"</a>
@@ -17,7 +17,7 @@ Currently, I continue to improve my skills in various front-end technologies, en
 
 ---
 
-Below you can see a list of some of the technologies that I know and use daily. Not all the technologies I know are listed today but I am constantly updating and also learning more 👨‍🎓.
+<!-- Below you can see a list of some of the technologies that I know and use daily. Not all the technologies I know are listed today but I am constantly updating and also learning more 👨‍🎓.
 
 ### Languages:
 ![HTML 5](https://img.shields.io/badge/HTML_5-112240?style=flat-square&logo=html5)
@@ -72,7 +72,9 @@ Below you can see a list of some of the technologies that I know and use daily. 
 ![EsLint](https://img.shields.io/badge/EsLint-112240?style=flat-square&logo=eslint)
 ![Postman](https://img.shields.io/badge/Postman-112240?style=flat-square&logo=postman)
 ![Insomnia](https://img.shields.io/badge/Insomnia-112240?style=flat-square&logo=insomnia)
-![Figma](https://img.shields.io/badge/Figma-112240?style=flat-square&logo=figma)
+![Figma](https://img.shields.io/badge/Figma-112240?style=flat-square&logo=figma) -->
+
+**You can read more about me:** https://devluizvicente.com.br/#about
 
 # 💡 Insights
 Below you can see some insights into my contributions on GitHub throughout all my years of work 🤗.
