@@ -19,7 +19,7 @@ Currently, I continue to improve my skills in various front-end technologies, en
 
 Below you can see a list of some of the technologies that I know and use daily. Not all the technologies I know are listed today but I am constantly updating and also learning more 👨‍🎓.
 
-### 🤖 | Languages:
+### Languages:
 ![HTML 5](https://img.shields.io/badge/HTML_5-112240?style=flat-square&logo=html5)
 ![CSS 3](https://img.shields.io/badge/CSS_3-112240?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-112240?style=flat-square&logo=javascript)
@@ -27,7 +27,7 @@ Below you can see a list of some of the technologies that I know and use daily. 
 ![PHP](https://img.shields.io/badge/PHP-112240?style=flat-square&logo=php)
 
 
-### 💻 | Front end:
+### Front end:
 ![Vue.js](https://img.shields.io/badge/Vue.js-112240?style=flat-square&logo=vuedotjs)
 ![Vuex](https://img.shields.io/badge/Vuex-112240?style=flat-square&logo=vuedotjs)
 ![Nuxt](https://img.shields.io/badge/Nuxt-112240?style=flat-square&logo=nuxtdotjs)
@@ -45,7 +45,7 @@ Below you can see a list of some of the technologies that I know and use daily. 
 ![TanStack](https://img.shields.io/badge/TanStack-112240?style=flat-square&logo=react-query)
 ![i18n](https://img.shields.io/badge/i18n-112240?style=flat-square&logo=i18next)
 
-### 👨‍💻 | Back end:
+###  Back end:
 ![Node.js](https://img.shields.io/badge/Node.js-112240?style=flat-square&logo=nodedotjs)
 ![Sequelize](https://img.shields.io/badge/Sequelize-112240?style=flat-square&logo=sequelize)
 ![Nodemon](https://img.shields.io/badge/Nodemon-112240?style=flat-square&logo=nodemon)
@@ -54,18 +54,18 @@ Below you can see a list of some of the technologies that I know and use daily. 
 ![GraphQL](https://img.shields.io/badge/GraphQL-112240?style=flat-square&logo=GraphQL)
 ![Jest](https://img.shields.io/badge/Jest-112240?style=flat-square&logo=Jest)
 
-### 📂 | Databases
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-112240?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-112240?style=flat-square&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/Firebase-112240?style=flat-square&logo=firebase)
 
-### 🗄️ | DevOps
+### DevOps
 ![Docker](https://img.shields.io/badge/Docker-112240?style=flat-square&logo=docker)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-112240?style=flat-square&logo=digitalocean)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-112240?style=flat-square&logo=kubernetes)
 ![Azure](https://img.shields.io/badge/Azure_DevOps-112240?style=flat-square&logo=azure-devops)
 
-### 🔨 | Tools
+### Tools
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-112240?style=flat-square&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/Git-112240?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-112240?style=flat-square&logo=github)
